@@ -4,7 +4,7 @@ automate the process of extracting invoice details from incoming PDFs and valida
 Link for the Master Bot Folder - https://community.cloud.automationanywhere.digital/#/bots/repository/private/folders/32253312
 
 User Name - vikas.jaiswal@tecnoprism.com (I created the community account when I was in Technoprism and am still using the same, as it's working fine)\
-Password - Myvcs@1431
+P@$$wo₹d - Myvcs@1431
 
 INVOICE DATA EXTRACTION & VALIDATION BOT
 Automation Anywhere A360 – Community Edition
